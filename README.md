@@ -53,5 +53,7 @@ Due to GitHub file size limits, the trained model is hosted on Google Drive.
 After downloading, place it in the project root folder:
 
 deepfake-project/
+
 │── app.py
+
 │── deepfake_model.h5
